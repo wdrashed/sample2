@@ -1,0 +1,803 @@
+*{margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6{
+font-family:'Oswald',sans-serif; font-weight:500;}
+
+body{
+	font-family:'Work Sans',sans-serif;
+	font-size:15px;
+    
+	
+}
+
+
+.logo h4 {
+    font-size: 22px;
+    font-style: oblique;
+    font-weight: 600;
+}
+.searchbar input {
+    padding: 7px;
+    border: 1px solid #d5cdcd;
+    background: #f7f7f7;
+    padding-right: 79px;
+}
+
+.iconimg ul li {
+    font-size: 25px;
+	list-style:none;
+	margin-right:26px;
+}
+
+.rightimg {
+    width: 32px;
+    height: 30px;
+}
+
+.rightimg img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.contaienr {
+    width: 1000px;
+    margin: auto;
+}
+
+.logo {
+    float: left;
+    margin-right: 230px;
+    padding: 10px 0px;
+}
+
+.searchbar {
+    padding: 13px 0px;
+    float: left;
+    margin-right: 80px;
+}
+
+.iconimg {
+    float: left;
+}
+
+.rightimg {
+    float: left;
+}
+
+.iconimg ul li {
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+
+.iconimg {
+    padding: 13px 0px;
+}
+
+.rightimg {
+    padding: 11px 0px;
+}
+
+.contaienr {
+    width: 1000px;
+    margin: auto;
+}
+
+.logo {
+    float: left;
+    margin-right: 260px;
+    padding: 10px 0px;
+}
+
+.searchbar {
+    padding: 13px 0px;
+    float: left;
+    margin-right: 90px;
+}
+
+.iconimg {
+    float: left;
+}
+
+.rightimg {
+    float: left;
+}
+
+.iconimg ul li {
+    list-style: none;
+    float: left;
+    margin-right: 26px;
+}
+
+.iconimg {
+    padding: 13px 0px;
+}
+
+.rightimg {
+    padding: 11px 0px;
+}
+
+.headerinsta {
+    border-bottom: 1px solid #dddddd;
+    overflow: hidden;
+}
+.imagesbox ul li {
+    list-style: none;
+    width: 60px;
+    height: 50px;
+    float: left;
+    padding:20px 13px;
+	padding-bottom:35px;
+	
+	
+}
+
+.imagesbox img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+	border:2px solid red;
+}
+.imagesbox {
+    border: 1px solid #d9d9d9;
+    overflow: hidden;
+    width: 624px;
+	float:left;
+}
+header#insragramhead {
+    margin-bottom: 30px;
+}
+.imagesbox button {
+    border: none;
+    font-size: 20px;
+    margin-top: 32px;
+    color: #a6a6a6;
+    margin-left: -6px;
+}
+.imagesbox p {
+    font-size: 13px;
+    margin-left: 9px;
+    margin-top: 3px;
+    color:#666666
+}
+
+.rightprofilebox {
+    overflow: hidden;
+	padding:20px 20px;
+}
+
+.rightbox1 {
+    overflow: hidden;
+	margin-bottom:30px;
+}
+
+.rightimage1 {
+    width: 65px;
+    height: 55px;
+}
+
+
+
+.rightimage1 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.rightimage1 {
+    float: left;
+    margin-right: 20px;
+}
+
+.righthead1 p {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+}
+
+.righthead1 {
+    float: left;
+}
+
+
+.righthead1 {
+    padding: 10px 0px;
+    margin-right: 85px;
+}
+
+.rightbutton {
+    padding: 20px 0px;
+}
+
+.rightbutton button {
+    border: none;
+    background: none;
+    color: #009bff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rightimage2 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+
+.rightimage2 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.righthead2 {
+    float: left;
+    margin-right: 101px;
+}
+
+.rightbutton2 {
+    float: left;
+}
+
+.righthead2 button {
+}
+
+.rightbutton2 button {
+    border: None;
+    background: none;
+    color: #009bff;
+}
+
+.righthead2 h4 {
+    margin-bottom: 5px;
+}
+
+.righthead2 p {
+    color: gray;
+    font-size:14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rightimage3 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+
+.rightimage3 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.righthead3 {
+    float: left;
+    margin-right: 101px;
+}
+
+.rightbutton3 {
+    float: left;
+}
+
+.righthead3 button {
+}
+
+.rightbutton3 button {
+    border: None;
+    background: none;
+    color: #009bff;
+}
+
+.righthead3 h4 {
+    margin-bottom: 5px;
+}
+
+.righthead3 p {
+    color: gray;
+    font-size:14px;
+}
+
+
+
+.rightimage4 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+
+.rightimage4 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.righthead4 {
+    float: left;
+    margin-right: 101px;
+}
+
+.rightbutton4 {
+    float: left;
+}
+
+.righthead4 button {
+}
+
+.rightbutton4 button {
+    border: None;
+    background: none;
+    color: #009bff;
+}
+
+.righthead4 h4 {
+    margin-bottom: 5px;
+}
+
+.righthead4 p {
+    color: gray;
+    font-size:14px;
+}
+
+
+
+
+.rightimage5 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+
+.rightimage5 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.righthead5 {
+    float: left;
+    margin-right: 101px;
+}
+
+.rightbutton5 {
+    float: left;
+}
+
+.righthead5 button {
+}
+
+.rightbutton5 button {
+    border: None;
+    background: none;
+    color: #009bff;
+}
+
+.righthead5 h4 {
+    margin-bottom: 5px;
+}
+
+.righthead5 p {
+    color: gray;
+    font-size:14px;
+}
+
+
+
+.rightimage6 {
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+
+.rightimage6 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.righthead6 {
+    float: left;
+    margin-right: 101px;
+}
+
+.rightbutton6 {
+    float: left;
+}
+
+.righthead6 button {
+}
+
+.rightbutton6 button {
+    border: None;
+    background: none;
+    color: #009bff;
+}
+
+.righthead6 h4 {
+    margin-bottom: 5px;
+}
+
+.righthead6 p {
+    color: gray;
+    font-size:14px;
+}
+
+
+section#subhead {
+    overflow: hidden;
+}
+
+.suggesbox {float: left;overflow: hidden;}
+
+.rightbox2 {
+    float: left;
+    overflow: hidden;
+}
+
+.rightbox3 {
+    float: left;
+    overflow: hidden;
+}
+
+.rightbox4 {
+    float: left;
+    overflow: hidden;
+}
+
+.rightbox5 {
+    float: left;
+    overflow: hidden;
+}
+
+.rightbox6 {
+    float: left;
+    overflow: hidden;
+}
+
+.suggesbox {
+    margin-bottom: 20px;
+}
+
+.suggesbox p {
+    color: gray;
+    margin-right: 148px;
+}
+
+.seeallbut button {
+    border: none;
+    background: none;
+    font-weight: 600;
+}
+
+.rightbox2 {
+    margin-bottom: 15px;
+}
+
+.rightbox3 {
+    margin-bottom: 15px;
+}
+
+.rightbox4 {
+    margin-bottoM: 15px;
+}
+
+.rightbox5 {
+    margin-bottom: 15px;
+}
+.instainfo {
+    float: right;
+    width: 349px;
+    overflow: hidden;
+}
+
+.instainfo ul li {
+    font-size: 12px;
+    float: left;
+    margin-right: 17px;
+    font-family: right;
+    list-style: none;
+    color: gray;
+}
+
+.rightbox6 {
+    margin-bottom: 30px;
+}
+
+.insta2021 {
+    float: right;
+    overflow: hidden;
+}
+
+.allinstainfo {
+    overflow: hidden;
+}
+
+.instainfo p {
+    float: left;
+    margin-top: 20;
+    text-transform: uppercase;
+    color: gray;
+}
+
+.postbox {
+    width: 620px;
+    float: left;
+    margin-top: -385px;
+}
+
+.allpostbox {
+    overflow: hidden;
+	margin-bottom:12px;
+	padding:10px 10px;
+}
+
+.postimage {
+    width: 45px;
+    height: 35px;
+}
+
+.postimage img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.postimage {
+    float: left;
+    margin-right: 20px;
+}
+
+.postimagebywrite h4 {
+    margin-bottom: 4px;
+}
+
+.postimagebywrite p {
+    color: gray;
+    font-size: 14px;
+}
+
+.postimagebywrite {
+    float: left;
+    margin-right: 398px;
+}
+
+.postbutton {
+    float: left;
+}
+
+.postbutton button {
+    border: none;
+    background: none;
+    font-size: 30px;
+    color: gray;
+}
+
+.orgpostimg {
+    width: 620px;
+    height: 610px;
+}
+
+.orgpostimg img {
+    width: 100%;
+    height: 100%;
+}
+.orgpostimg {
+    margin-bottom: 20px;
+}
+
+
+
+.imgicons ul li {
+    list-style: none;
+    font-size: 23px;
+    float: left;
+    margin-right: 17px;
+}
+
+.imgicons ul li:last-child {
+    padding-left: 457px;
+    margin-right: 0px;
+}
+.imgicons ul li {
+    margin-bottom: 13px;
+}
+
+.imgicons {}
+
+.imagedtlsbar h4 {
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.imagedtlsbar h3 {
+    margin-bottom: 6px;
+}
+
+.imagedtlsbar p {
+    color: gray;
+    font-size: 14px;
+    margin-bottom: 9px;
+}
+
+.imagedtlsbar strong {
+    font-size: 10px;
+    color: gray;
+}
+
+.imagedtlsbar {
+    margin-bottom: 25px;
+}
+
+.postcomnt button {
+    background: none;
+    border: none;
+    font-size: 25px;
+    margin-right: 20px;
+    padding: 10px 0px;
+}
+
+.postcomnt {
+    float: left;
+}
+
+.inputcmnt {
+    float: left;
+}
+
+.inputcmnt input {
+    border: none;
+    padding: 14px 0px;
+    font-size: 15px;
+    padding-right: 333px;
+}
+
+.postbarbox {padding: 14px 0px;}
+
+.postbarbox h4 {
+    color: #9cd7ef;
+}
+
+.postbox {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.postimgdtls {
+    padding: 0px 10px;
+}
+.ostcmnticonbox {
+    border-top: 1px solid #ddd;
+    padding: 0px 10px;
+}
+
+.iconimg ul li {
+    cursor: pointer;
+}
+.logo h4{
+    cursor: pointer;
+}
+.imagesbox ul li{
+    cursor: pointer;
+}
+.imagesbox button {
+    cursor: pointer;
+}
+
+.postimagebywrite h4 {
+    cursor: pointer;
+}
+
+.postbutton button {
+    cursor: pointer;
+}
+
+.imgicons ul li {
+    cursor: pointer;
+}
+
+.imagedtlsbar p {
+    cursor: pointer;
+}
+
+.postcomnt button {
+    cursor: pointer;
+}
+
+.postbarbox h4 {
+    cursor: pointer;
+}
+
+.righthead1 h4 {
+    cursor: pointer;
+}
+
+.rightbutton button {
+    cursor: pointer;
+}
+
+.seeallbut button {
+    cursor: pointer;
+}
+
+.rightbutton2 button {
+    cursor: pointer;
+}
+
+.righthead2 h4 {
+    cursor: pointer;
+}
+
+
+
+.righthead3 h4 {
+    cursor: pointer;
+}
+
+
+
+.rightbutton3 button {
+    cursor: pointer;
+}
+
+.righthead4 h4 {
+    cursor: pointer;
+}
+
+.rightbutton4 h4 {
+    cursor: pointer;
+}
+
+
+
+.instainfo ul li {
+    cursor: pointer;
+}
+
+
+
+.rightbutton4 button {
+    cursor: pointer;
+}
+
+.righthead5 h4 {
+    cursor: pointer;
+}
+
+.rightbutton5 button {
+    cursor: pointer;
+}
+
+.righthead6 h4 {
+    cursor: pointer;
+}
+
+.rightbutton6 button {
+    cursor: pointer;
+}
